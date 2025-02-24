@@ -11,11 +11,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "engines": {
-    "node": ">=18.18",
-    "yarn": ">=1 <2",
-    "npm": "please-use-yarn"
-  },
   "dependencies": {
     "@chakra-ui/icons": "^2.2.4",
     "@chakra-ui/react": "2",
