@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Home } from "@/pages/home";
-import { Contact } from "@/pages/contact";
+import { Home } from "@/pages/Home";
+import { Contact } from "@/pages/Contact";
 import { Suspense } from "react";
 import { Spinner } from "@chakra-ui/react";
 import { Layout } from "@/components/Layout";
